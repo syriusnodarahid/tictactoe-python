@@ -5,4 +5,4 @@
 * Add support for smaller chain to win (e.g. any 3-in-a-row for 5x5 board)
 * Use ncurses for more fun
 * Allow user to play again
-* Write a more intelligent AIPlayer
+* Write a more intelligent AIplayer
